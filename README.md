@@ -6,7 +6,7 @@ Tenho interesse por programação e no ramo tecnológico há bastante tempo, e d
 
 Por isso, me tornei estudante da Fatec Prof° Jessen Vidal no segundo semestre de 2024, que oferece uma boa fonte confiável de aprendizagem e desenvolvimento por via de Projetos Integrados (APIs) que é realizado em equipes, utilizando o que é feito e ensinado durante o semestre, abrindo portas para aprimorar habilidades técnicas e interpessoais.
 
-Busco nesse momento oportunidades de estágio e vagas como desenvolvedor júnior, para melhorar e aplicar meus conhecimentos.
+Busco nesse momento oportunidades de estágio e vagas como desenvolvedor júnior, para aprimorar e aplicar meus conhecimentos.
 
 ---
 
@@ -58,11 +58,7 @@ Atuei como Dev Team.
 <br>
 
 Contribuições pessoais:
-- Implementação de filtro: usei JavaScript para ler parâmetros de consulta (query parameters) na URL no formato chave-valor.
-
-- Alterações na página de vereadores, manipulando HTML e CSS para exibir as informações corretamente no front-end.
-
-- Operações com Git e GitHub, incluindo merges no repositório principal.
+Ao trabalhar como dev team, eu ajudei na pesquisa e na implementação do processo de filtragem de vereadores e seus atribuitos dentro do projeto, utilizando a linguagem Javascript para ler parâmetros de consulta na url no qual optei por usar o formato chave-valor. Fiz alterações na aparência e responsividade da página de vereadores, usando HTML/CSS para exibir as informações precisamente e pensando em outras resoluções de tela no front-end. Por fim, eu ajudei ao juntar as branchs do projeto utilizando comandos no Git e por meio da plataforma do Github.
 
 Tecnologias utilizadas:
 <p align="center">
@@ -79,16 +75,16 @@ Hard skills desenvolvidas:
 - HTML / CSS / MySQL / Python: desenvolvidas de forma autônoma.
 
 Soft skills desenvolvidas:
-- Autonomia: tomei decisões sem aguardar instruções detalhadas, o que ajudou a entregar as atividades com responsabilidade.
-- Resolução de problemas: compreender os desafios foi essencial para resolvê-los de forma precisa e eficaz.
+- Autonomia: Foi necessário buscar tomar decisões sem aguardar instruções detalhadas o que ajudou a buscar em fontes confiaveis em como resolver e implementar o filtro no projeto.
 
+- Resolução de problemas: Ao nós depararmos com varios problemas no gerenciamento de branchs no fim do semestre, eu tomei a atitude de analisar com calma o problema e resolve-lo além do superficial, ao usar de comandos precisos do Git.
 ---
 
 ### API FATEC 2025/1
 
 Projeto proposto pela a empresa parceira Helpnei.
 
-A Helpnei é uma plataforma para profissionais de vendas de conexões diretas que utiliza um marketplace. Ela oferece ferramentas para gerenciar links de afiliados, facilitando a promoção e comercio de produtos de grandes marcas. Também permite criar lojas próprias, se afiliar e vender produtos dentro de comunidades, promovendo possibilidades de renda extra.
+A Helpnei é uma plataforma para profissionais de vendas de conexões diretas que utiliza marketplace. Ela oferece ferramentas para gerenciar links de afiliados, facilitando a promoção e comercio de produtos de grandes marcas. Também permite criar lojas próprias, se afiliar e vender produtos dentro de comunidades, promovendo possibilidades de renda extra.
 
 A Helpnei tinha dificuldade em oferecer às empresas parceiras indicadores que mostrassem, claramente, seus resultados e impacto na plataforma. A solução desenvolvida consiste em um dashboard de indicadores de crescimento para empresas cadastradas e em um sistema de captação de usuários externos.
 
@@ -106,9 +102,7 @@ Atuei como Dev Team.
 <br>
 
 Contribuições pessoais:
-- Integração entre backend e frontend, typescript garantindo que os dados fossem retornados com formato consistente.
-
-- Pesquisa e implementação de chamadas à API necessárias para operações essenciais do projeto, usando o typescript e operações importantes.
+Ao trabalhar como Dev Team, eu ajudei na integração do Backend e Frontend, nos dados passados para o Dashboard fosse entregues ao front corretamente, utilizando um formato consistente e adequado. Dentro do projeto, era necessário criação de uma API (Application Programming Interface) no qual realizava operações de CRUD para retornar de forma simples e fácil leitura os dados que eram requiridos para o front-end.
 
 Tecnologias utilizadas:
 <p align="center">
@@ -126,10 +120,10 @@ Hard skills desenvolvidas:
 - Tailwind CSS / express.js: uso com orientação.
 
 Soft skills desenvolvidas:
-- Proatividade: atuação independente quando necessário, buscando soluções e contribuindo para a equipe.
-- Capacidade de escuta: ouvir os demais integrantes e o PO foi essencial para alinhar expectativas.
-- Colaboração: apoio ao grupo e adaptação ao ritmo de cada membro.
-- Gestão do tempo: entrega dentro dos prazos e aproveitamento eficiente do tempo disponível.
+- Proatividade: pouco tempo depois que eu ouvi que era necessário trablhar no dashboard, eu tive atuação independente, partindo para buscar e criar as soluções para entregar dentro do prazo e nos conformes.
+- Capacidade de escuta: foi necessário ouvir os demais integrantes ao longo das reuniões e na propria sala de aula, incluido o PO, para compreender quais eram os dados adequados JSON que deveria ter no front.
+- Colaboração: desde das primeiras semanas, foi muito mais participante nas reuniões e para conversas com o grupo, de forma que entreguei melhor, compreendi corretamente o ritmo de cada membro, no qual, fez que eu me adapta-se ao ritmo da equipe.
+- Gestão do tempo: durante esse semestre, eu corri atrás  e consegui entregar tudo dentro dos prazos e ter um otimo aproveitamento nas entregas, se mantendo pontual partindo das primeiras semanas.
 
 ---
 
@@ -153,9 +147,16 @@ Atuei como Dev Team.
 <br>
 
 Contribuições pessoais:
-- Identifiquei a necessidade de tratar anexos como uma entidade separada vinculada às tarefas e criei um modelo para gerenciar esses arquivos.
+Como foi parte do Dev Team, quando foram feito as primeiras reuniões, eu apontei que anexo tinha que ser uma tarefa a ser feita e uma entidade separada de tarefa, para ser tratada de forma mais simples. Então eu busquei conhecimento e implementei a entidade anexo vinculada às tarefas, junto aos seus serviços e um controle para gerenciar esses arquivos, utilizando Java + Spring Boot. Durante as Sprints, tive a responsabilidade de intregação do Back e do Front, principalmente de anexo, mas de outras entidades também, usando CORS e ligando as portas de back e front, tanto do Java tanto do Typescript.
 
-- Auxiliei na integração entre backend e frontend.
+Identificação de problemas e o que eu mudaria:
+
+-  O grupo tinha problemas de comunicação e organização nas 2 primeiras Sprints;
+-  Um dos integrantes do grupo tinha entregas com qualidade questionavel e o grupo optou por deixar isso passar;
+-  Foi amenizado muito dos erros cometidos pelos os membros do grupo;
+-  Por fim, ocorreu a redução de participantes e a união do grupo, que melhorou a coesão e alinhamento entre o time.
+
+  Agora sobre eu, como Dev Team participante da minha equipe SCRUM, eu percebi que a minha falta de organização e comunicação, foram os motivos que deixaram as minhas contribuições do projeto e participação dentro da equipe, abaixo do esperado. A forma para corrigir esses problemas seria procurar dar prioridade no que realmente tem valor e acrescenta conhecimento, além de se organizar melhor em prazos e datas, aumentando a chance de uma entrega com maior qualidade.  
 
 Tecnologias utilizadas:
 <p align="center">
@@ -171,8 +172,8 @@ Tecnologias utilizadas:
 </p>
 
 Hard skills desenvolvidas:
-- Java / Spring Boot / MongoDB / Redis: participei com apoio e aprendizado contínuo.
+- Java / Spring Boot / MongoDB / Redis: precisei de apoio e correr para o aprendizado contínuo.
 - HTML / CSS / TypeScript / React / Node.js: desenvolvidas de forma autônoma.
 
 Soft skills desenvolvidas:
-- Adaptabilidade: adaptei-me a mudanças no ambiente de trabalho e nas prioridades do projeto.
+- Adaptabilidade: por conta do processo turbulento do nossa equipe, foi necessário utilizar da a adaptação as mudanças no ambiente de trabalho e nas prioridades do projeto que tiveram que ser mudadas.
